@@ -53,3 +53,12 @@ section#login > div#image {
 section#login > div#form {
 	padding: 10px;
 }
+
+section#login > div#form > h1 {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+section#login > div#form > p {
+	font-size: 0.8em;
+}

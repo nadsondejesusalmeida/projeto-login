@@ -36,11 +36,15 @@
 	section#login > div#image {
 		width: 50%;
 		height: 100%;
-		float: left;
+		float: right;
 	}
 	
 	section#login > div#form {
 		width: 50%;
-		float: right;
+		float: left;
+	}
+	
+	section#login > div#form > p {
+		font-size: 1.2em;
 	}
 }
