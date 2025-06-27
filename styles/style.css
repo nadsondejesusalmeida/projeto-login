@@ -108,6 +108,7 @@ section#login > div#form a.buttons {
 	background-color: var(--primary-color);
 	border-radius: 5px;
 	cursor: pointer;
+	transition: all .3s ease;
 }
 
 section#login > div#form input[type="submit"] {
