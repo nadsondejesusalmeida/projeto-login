@@ -45,7 +45,7 @@ section#login {
 
 section#login > div#image {
 	height: 200px;
-	background: url('../images/metal.jpg') no-repeat left bottom;
+	background: url('./images/metal.jpg') no-repeat left bottom;
 	background-size: cover;
 }
 
